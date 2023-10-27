@@ -1,4 +1,7 @@
+=== 1.0.1 2023-10-27
+
+* Pulled in changes in dev branch into master & addressed deprecation warnings
+
 === 1.0.0 2013-02-12
 
 * First version of the Products API bindings
-
